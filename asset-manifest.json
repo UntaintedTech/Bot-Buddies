@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bot-Buddies/static/css/main.9699e6b9.css",
+    "main.js": "/Bot-Buddies/static/js/main.60dc4b2d.js",
+    "static/js/787.183892d8.chunk.js": "/Bot-Buddies/static/js/787.183892d8.chunk.js",
+    "static/media/SpaceArmor-vmlv4.woff": "/Bot-Buddies/static/media/SpaceArmor-vmlv4.55d4f1aec209c925ecfe.woff",
+    "index.html": "/Bot-Buddies/index.html",
+    "main.9699e6b9.css.map": "/Bot-Buddies/static/css/main.9699e6b9.css.map",
+    "main.60dc4b2d.js.map": "/Bot-Buddies/static/js/main.60dc4b2d.js.map",
+    "787.183892d8.chunk.js.map": "/Bot-Buddies/static/js/787.183892d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9699e6b9.css",
+    "static/js/main.60dc4b2d.js"
+  ]
+}
